@@ -1,0 +1,15 @@
+C:\Users\kim_k\Desktop\D,Z\Number47\bin\Debug\net6.0\Number47.exe
+C:\Users\kim_k\Desktop\D,Z\Number47\bin\Debug\net6.0\Number47.deps.json
+C:\Users\kim_k\Desktop\D,Z\Number47\bin\Debug\net6.0\Number47.runtimeconfig.json
+C:\Users\kim_k\Desktop\D,Z\Number47\bin\Debug\net6.0\Number47.dll
+C:\Users\kim_k\Desktop\D,Z\Number47\bin\Debug\net6.0\Number47.pdb
+C:\Users\kim_k\Desktop\D,Z\Number47\obj\Debug\net6.0\Number47.csproj.AssemblyReference.cache
+C:\Users\kim_k\Desktop\D,Z\Number47\obj\Debug\net6.0\Number47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim_k\Desktop\D,Z\Number47\obj\Debug\net6.0\Number47.AssemblyInfoInputs.cache
+C:\Users\kim_k\Desktop\D,Z\Number47\obj\Debug\net6.0\Number47.AssemblyInfo.cs
+C:\Users\kim_k\Desktop\D,Z\Number47\obj\Debug\net6.0\Number47.csproj.CoreCompileInputs.cache
+C:\Users\kim_k\Desktop\D,Z\Number47\obj\Debug\net6.0\Number47.dll
+C:\Users\kim_k\Desktop\D,Z\Number47\obj\Debug\net6.0\refint\Number47.dll
+C:\Users\kim_k\Desktop\D,Z\Number47\obj\Debug\net6.0\Number47.pdb
+C:\Users\kim_k\Desktop\D,Z\Number47\obj\Debug\net6.0\Number47.genruntimeconfig.cache
+C:\Users\kim_k\Desktop\D,Z\Number47\obj\Debug\net6.0\ref\Number47.dll
